@@ -1,2 +1,0 @@
-# dynamicRoutes
-Created with CodeSandbox
